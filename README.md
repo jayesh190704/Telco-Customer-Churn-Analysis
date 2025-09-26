@@ -1,4 +1,5 @@
-#📊 Telco Customer Churn Analysis
+# Telco Customer Churn Analysis
+
 ## Project objective:
 The objective of this project is to analyze customer churn patterns for a telecom 
 company and identify the key drivers behind customer retention and churn. The project 
