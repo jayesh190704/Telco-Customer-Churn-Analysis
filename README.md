@@ -35,14 +35,14 @@ leverages Power BI to build an interactive dashboard that provides actionable in
 ## Dashbaord  
 <img width="1856" height="779" alt="Dmart Analysis dashboard" src ="https://github.com/jayesh190704/Telco-Customer-Churn-Analysis/blob/main/Dashboard%20Snapshot.png" />
 
-# 🔑 Key Insights & Features
+#🔑 ey Insights & Features
 •	Customers with month-to-month contracts have the highest churn rate.
 •	Electronic check payment method users churn significantly more than others.
 •	Churn is higher among customers with fiber optic internet service.
 •	Longer tenure customers are less likely to churn.
 •	Customers using multiple services show higher retention.
 
-# 🌟 Why This Project Stands Out
+# Why This Project Stands Out
 •	Complete end-to-end Power BI workflow: data cleaning, modeling, visualization.
 •	Interactive & user-friendly dashboard with slicers and drill-down features.
 •	Focused on business insights rather than just visual representation.
